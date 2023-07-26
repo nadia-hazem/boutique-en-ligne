@@ -10,9 +10,9 @@ abstract class Model
         // connexion à la bdd
         // variables de connexion à la bdd
         $host = 'localhost';
-        $dbname = 'boutique';
-        $dbUser = 'root';
-        $dbPass = '';
+        $dbname = 'fqdbhzuh_boutique';
+        $dbUser = 'fqdbhzuh_n0NAq79EJ';
+        $dbPass = 'tNvTEkztxMnhMWtURtBHPvB5EHROYGBf';
 
         try {
             $this->bdd = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $dbUser, $dbPass);
