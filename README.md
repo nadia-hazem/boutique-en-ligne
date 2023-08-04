@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://boutiqueenligne.netlify.app">Demo</a> -->
+  <a href="https://portfolio.pictelle.com/boutique-en-ligne/index.php">Demo</a>
 </div>
 
 <h1 align="center">Boutique En Ligne</h1>
