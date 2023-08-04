@@ -71,7 +71,7 @@ There are no additional dependencies required for this project.
 $ git clone https://github.com/nadia-hazem/boutique-en-ligne/
 
 # Access
-$ cd blog-js
+$ cd boutique-en-ligne
 
 # Run the project
 
